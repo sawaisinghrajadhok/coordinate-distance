@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/sawai/Desktop/jsprit-master/jsprit-io/target/jsprit-io-1.7.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/sawai/Desktop/jsprit-master/jsprit-instances/target/jsprit-instances-1.7.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/sawai/Desktop/jsprit-master/jsprit-analysis/target/jsprit-analysis-1.7.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/sawai/Desktop/jsprit-master/jsprit-core/target/jsprit-core-1.7.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/sawai/Desktop/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="/home/sawai/Desktop/commons-math3-3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
